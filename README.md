@@ -38,7 +38,7 @@ The methodology followed in this lab consists of the following steps:
 ### 1. Face Detection Output
 Detected faces are highlighted with bounding boxes.
 
-![Face Detection Output](images/face_detected.png)
+![Face Detection Output](images/faces_detected.png)
 
 ---
 
