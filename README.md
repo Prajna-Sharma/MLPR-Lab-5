@@ -38,21 +38,21 @@ The methodology followed in this lab consists of the following steps:
 ### 1. Face Detection Output
 Detected faces are highlighted with bounding boxes.
 
-![Face Detection Output](images/face_detection.png)
+![Face Detection Output](images/face_detected.png)
 
 ---
 
 ### 2. Hue–Saturation Feature Space
 Each face is plotted in Hue–Saturation space along with cluster centroids.
 
-![Hue-Saturation Scatter Plot](images/hs_scatter.png)
+![Hue-Saturation Scatter Plot](images/KMeans_clustering.png)
 
 ---
 
 ### 3. Clustered Faces with Template Image
 The template face is plotted along with clustered faces to show its assigned class.
 
-![Template Classification](images/template_classification.png)
+![Template Classification](images/templateImage.png)
 
 ---
 
